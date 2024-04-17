@@ -6,7 +6,7 @@ This project utilizes Google's Gemini model to generate summaries for YouTube vi
 
 1. Copy the link of the YouTube video you want to summarize.
 2. Paste the link into the designated input field.
-3. Click on the "Get Summery" button.
+3. Click on the "Get Summary" button.
 4. Wait for the Gemini model to process the video and generate the summary.
 5. View the summarized content provided by the model.
 
