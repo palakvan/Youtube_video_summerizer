@@ -12,4 +12,4 @@ This project utilizes Google's Gemini model to generate summaries for YouTube vi
 
 ### Demo
 
-[![YouTube Video Summarizer Demo](https://youtubevideosummerizer.streamlit.app/)
+[YouTube Video Summarizer Demo](https://youtubevideosummerizer.streamlit.app/)
