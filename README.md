@@ -9,3 +9,7 @@ This project utilizes Google's Gemini model to generate summaries for YouTube vi
 3. Click on the "Summarize" button.
 4. Wait for the Gemini model to process the video and generate the summary.
 5. View the summarized content provided by the model.
+
+### Demo
+
+[![YouTube Video Summarizer Demo](https://youtubevideosummerizer.streamlit.app/)
